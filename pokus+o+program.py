@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[41]:
+# In[1]:
 
 import random
 pozdravy = []
@@ -26,4 +26,3 @@ if input("A pozdrav by jsi přidat chtěl?") == "ano":
     pozdravy.append(d)
 else:
     print("Tak si trhni no")
-
